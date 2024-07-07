@@ -41,4 +41,4 @@ To play the game, follow these steps:
 Contributions are welcome! If you have any ideas for improvements or new features, feel free to open an issue or submit a pull request.
 
 ## Contact
-If you have any questions or feedback, feel free to reach out to me at [your-email@example.com].
+If you have any questions or feedback, feel free to reach out to me at [shreekrishna@duck.com].
